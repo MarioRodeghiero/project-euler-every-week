@@ -10,7 +10,7 @@ Este é um simples projeto pessoal, com intuito de contribuir e praticar logica 
 
 Estipulei como meta, que toda semana devo resover e contribuir ao menos com um exercicio do projeto Euler.
 
-### Minha Statisca 
+### Minha Statistica 
 
 ![N|Solid](https://projecteuler.net/profile/mariorodeghiero.png)
 
