@@ -1,4 +1,4 @@
-#Project Euler - every week
+# Project Euler - every week
 
 
 ![N|Solid](https://projecteuler.net/images/euler_portrait.png)
@@ -6,15 +6,15 @@
 
 Este é um simples projeto pessoal, com intuito de contribuir e praticar logica de programação, utilizando a linguagem **JavaScript** como referência para resolver exercicios disponibilizados no projeto Euler.
 
-###Meta
+### Meta
 
 Estipulei como meta, que toda semana devo resover e contribuir ao menos com um exercicio do projeto Euler.
 
-###Minha Statisca 
+### Minha Statisca 
 
 ![N|Solid](https://projecteuler.net/profile/mariorodeghiero.png)
 
-###Sobre os exercicios
+### Sobre os exercicios
 
 Todos exercicios resolvidos, estão na seguinte estrutura abaixo e suas perguntas estão no arquivo do código, no topo e destacado com comentário.
 
