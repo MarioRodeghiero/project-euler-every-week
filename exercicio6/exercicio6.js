@@ -12,8 +12,8 @@ Find the difference between the sum of the squares of the first one hundred natu
 
 */
 
-let naturalNumber = 10;
-let naturalSquare = 10;
+let naturalNumber = 100;
+let naturalSquare = 100;
 let sumNumber = 0;
 let numberSum = 0;
 let myArray = [];
@@ -43,7 +43,5 @@ function sumSquare() {
     return total;
 }
 
+console.log(squareSum() - sumSquare());
 
-
-console.log(squareSum());
-console.log(sumSquare());
