@@ -8,7 +8,7 @@ Este é um simples projeto pessoal, com intuito de contribuir e praticar logica 
 
 ### Meta
 
-Estipulei como meta, que toda semana devo resover e contribuir ao menos com um exercicio do projeto Euler.
+Estipulei como meta, toda semana resolver e contribuir ao menos com um exercicio do projeto Euler.
 
 ### Minha Statistica 
 
